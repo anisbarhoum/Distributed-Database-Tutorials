@@ -2,11 +2,13 @@
 
 Welcome to the Distributed Database Management Tutorials repository!
 
-These tutorials were created while I was the Head Teaching Assistant for the Distributed Database Management course at Technion. They are based on previous tutorials but have been refined, expanded, and supplemented with additional materials to enhance learning.
+These tutorials were developed as part of my role as the Head Teaching Assistant for the Distributed Database Management course at Technion. While they build on previous materials, they are being refined, expanded, and supplemented throughout the semester.
 
 ## 📖 What you'll find here
 
 These tutorials cover the following topics:
-- Tutorial 1: Data Formats and Python Warmup.
+- Tutorial 1: Data Formats and Python Warmup (To be posted)
 - Tutorial 2: MapReduce
-- Tutorial 3: Introduction to Apache Spark
+- Tutorial 3: Introduction to Apache Spark (To be posted)
+
+📌 New tutorials and updates will be added progressively as the semester unfolds.
