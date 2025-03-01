@@ -7,8 +7,10 @@ These tutorials were developed as part of my role as the Head Teaching Assistant
 ## 📖 What you'll find here
 
 These tutorials cover the following topics:
-- Tutorial 1: Data Formats and Python Warmup (To be posted)
-- Tutorial 2: MapReduce
-- Tutorial 3: Introduction to Apache Spark (To be posted)
+
+- [Tutorial 1: Data Formats and Python Warmup](#) *(To be posted)*
+- [Tutorial 2: MapReduce](tutorials/02-MapReduce/)
+- [Tutorial 3: Introduction to Apache Spark](#) *(To be posted)*
 
 📌 New tutorials and updates will be added progressively as the semester unfolds.
+
