@@ -11,7 +11,7 @@ In this tutorial, we will explore PySpark DataFrames, write queries, and become 
 ### 1️⃣ Use Case Examples 
 **[Jupyter Notebook]** – Code that shows how to process data using DataFrame operations.
 
-### 2 Sample Dataset  
+### 2️⃣ Sample Dataset   
 **[CSV File: noisy_neighbors_reports]** – A synthetic dataset abut nooise complaints reports in NYC. It contains teh following columns:
  |-- Building Type: string (nullable = true)
  |-- Incident Zip: double (nullable = true)
