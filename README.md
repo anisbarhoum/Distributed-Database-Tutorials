@@ -14,6 +14,14 @@ These tutorials cover the following topics:
 - [Tutorial 2: MapReduce](tutorials/02-MapReduce/)
 - [Tutorial 3: Introduction to Apache Spark](tutorials/03-IntroToSpark/)
 - [Tutorial 4: PySpark DataFrame Operations](tutorials/04-DataFrameOperations/)
+- [Tutorial 5: Spark Partitions](#) *(To be posted)*
+- [Tutorial 6: ](#) *(To be posted)*
+- [Tutorial 7: ](#) *(To be posted)*
+- [Tutorial 8: ](#) *(To be posted)*
+- [Tutorial 9: ](#) *(To be posted)*
+- [Tutorial 10: ](#) *(To be posted)*
+- [Tutorial 11: ](#) *(To be posted)*
+- [Tutorial 12: ](#) *(To be posted)*
 
 📌 New tutorials and updates will be added progressively as the semester unfolds.
 
