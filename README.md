@@ -13,7 +13,7 @@ These tutorials cover the following topics:
 - [Tutorial 1: Data Formats and Python Warmup](#) *(To be posted)*
 - [Tutorial 2: MapReduce](tutorials/02-MapReduce/)
 - [Tutorial 3: Introduction to Apache Spark](tutorials/03-IntroToSpark/)
-- [Tutorial 4: PySpark DataFrame Operations](#)
+- [Tutorial 4: PySpark DataFrame Operations](tutorials/04-DataFrameOperations/)
 
 📌 New tutorials and updates will be added progressively as the semester unfolds.
 
