@@ -23,7 +23,3 @@ This tutorial provides an introduction to the **MapReduce paradigm**, its **key 
 - This tutorial is designed to introduce **MapReduce fundamentals** before diving into **Apache Spark**.  
 - The examples are implemented using **Python and MRJob**, a lightweight MapReduce framework.  
 - Feel free to modify the dataset and experiment with your own text files!  
-
----
-
-Let me know if you need any tweaks! 🚀
