@@ -10,7 +10,7 @@ Check out [Noam's Spark course](https://github.com/cnoam/spark-course) a few of 
 
 These tutorials cover the following topics:
 
-- [Tutorial 1: Data Formats and Python Warmup](#) *(To be posted)*
+- [Tutorial 1: Data Formats and Python Warmup](#) (not included)
 - [Tutorial 2: MapReduce](tutorials/02-MapReduce/)
 - [Tutorial 3: Introduction to Apache Spark](tutorials/03-IntroToSpark/)
 - [Tutorial 4: PySpark DataFrame Operations](tutorials/04-DataFrameOperations/)
